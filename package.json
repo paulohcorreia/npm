@@ -4,11 +4,11 @@
   "description": "This is my first test package only for fun purposes. ",
   "main": "index.js",
   "scripts": {
-    "test": "myfirsttestpackage test"
+    "test": "node test.js"
   },
   "repository": {
-    "type": "git",
-    "url": "git://github.com/paulohcorreia/npm"
+    "type": "README",
+    "url": "https://github.com/paulohcorreia/npm/blob/master/README.md"
   },
   "keywords": [
     "just",
@@ -19,5 +19,9 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/paulohcorreia/npm/issues"
-  }
+  },
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {}
 }
