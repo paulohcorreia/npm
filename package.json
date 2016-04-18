@@ -1,0 +1,23 @@
+{
+  "name": "myfirsttestpackage",
+  "version": "0.0.0",
+  "description": "This is my first test package only for fun purposes. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "myfirsttestpackage test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/paulohcorreia/npm"
+  },
+  "keywords": [
+    "just",
+    "for",
+    "fun"
+  ],
+  "author": "Paulo Henrique Correia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulohcorreia/npm/issues"
+  }
+}
